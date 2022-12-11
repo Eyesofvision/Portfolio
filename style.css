@@ -372,7 +372,8 @@ header .navbar ul li a:hover{
 
 .video
 {
-	margin-left: 23%;
+	margin-left: auto;
+	text-align: center;
 }
 
 @media (max-width:1200px){
